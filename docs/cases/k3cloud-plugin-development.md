@@ -52,8 +52,8 @@ tags:
 
 ### 开发架构
 ```
-WXB.K3.sln
-├── WXB.K3.PlugIn/          # 业务插件
+Custom.K3.sln
+├── Custom.K3.PlugIn/       # 业务插件
 │   ├── ass/                 # 组装相关
 │   ├── com/                 # 通用组件
 │   ├── crm/                 # CRM集成
@@ -65,9 +65,9 @@ WXB.K3.sln
 │   ├── pur/                 # 采购模块
 │   ├── sch/                 # 计划模块
 │   └── scm/                 # 供应链
-├── WXB.K3.WebApi/          # WebAPI封装
-├── WXB.K3.DataEntity/      # 数据实体
-└── WXB.K3.Util/            # 工具类
+├── Custom.K3.WebApi/       # WebAPI封装
+├── Custom.K3.DataEntity/   # 数据实体
+└── Custom.K3.Util/         # 工具类
 ```
 
 ### 关键开发
