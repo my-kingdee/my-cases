@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: 案例库
-  text: 项目实施与开发经验分享
+  text: 实施项目 & 开发项目经验分享
   tagline: 脱敏后的真实案例，助力企业数字化转型
   actions:
     - theme: brand
@@ -14,16 +14,18 @@ hero:
       link: /about
 
 features:
-  - icon: 🏢
-    title: ERP实施
-    details: 金蝶云星空、苍穹等ERP系统的实施经验，涵盖需求调研、方案设计、上线切换全流程
+  - icon: 📦
+    title: 实施项目
+    details: ERP实施、数据迁移、系统集成等企业信息化项目经验
+    link: /cases/#实施项目
   - icon: 💻
-    title: 软件开发
-    details: SaaS应用、小程序、数据平台等项目的开发经验，注重架构设计与工程实践
-  - icon: 🔄
-    title: 数据迁移
-    details: 异构系统间的数据迁移方案，包括数据清洗、映射、验证等关键环节
-  - icon: 🔗
-    title: 系统集成
-    details: 多系统集成方案，API对接、消息队列、数据同步等技术实践
+    title: 开发项目
+    details: SaaS应用、小程序、工具开发等软件项目经验
+    link: /cases/#开发项目
+  - icon: 🏢
+    title: 金蝶云星空
+    details: 金蝶云星空、苍穹等产品的实施与二次开发经验
+  - icon: 🔧
+    title: 工程实践
+    details: 架构设计、代码质量、自动化测试等技术实践
 ---
