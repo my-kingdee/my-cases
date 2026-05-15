@@ -1,4 +1,7 @@
 ---
 title: 归档
-archives: true
+archivesPage: true
+layout: page
+article: false
+sidebar: false
 ---

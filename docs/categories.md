@@ -1,4 +1,6 @@
 ---
 title: 分类
-categories: true
+categoriesPage: true
+layout: home
+article: false
 ---
