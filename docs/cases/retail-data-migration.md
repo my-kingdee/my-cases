@@ -1,7 +1,7 @@
 ---
 title: 零售企业数据迁移项目
 date: 2024-06-10
-top: 5
+top: true
 sticky: 5
 categories:
   - 数据迁移

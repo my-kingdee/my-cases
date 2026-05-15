@@ -1,7 +1,7 @@
 ---
 title: 制造企业ERP系统升级
 date: 2024-09-20
-top: 4
+top: true
 sticky: 4
 categories:
   - ERP实施
