@@ -146,12 +146,12 @@ public class DailyCapacityDto {
 
 ```groovy
 include(
-    ':la51-cosmic-debug',
-    ':la51-da6l2-base-common',
-    ':la51-da6l2-base-helper',
-    ':la51-da6l2-scmc',
-    ':la51-da6l2-mmc',
-    ':la51-da6l2-qmc',
+    ':cosmic-debug',
+    ':base-common',
+    ':base-helper',
+    ':module-scmc',
+    ':module-mmc',
+    ':module-qmc',
 )
 ```
 
