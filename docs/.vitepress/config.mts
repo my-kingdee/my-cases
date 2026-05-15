@@ -3,6 +3,9 @@ import { defineTeekConfig } from 'vitepress-theme-teek/config'
 
 // Teek 主题配置
 const teekConfig = defineTeekConfig({
+  // 首页配置：禁用VitePress默认hero，只保留Teek主题风格
+  vpHome: false,
+
   // Banner 配置
   banner: {
     enabled: true,
