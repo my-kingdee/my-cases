@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: '案例库',
   description: '项目实施与开发经验分享',
-  base: '/',
+  base: '/mykingdee.github.io/',
   
   themeConfig: {
     nav: [
