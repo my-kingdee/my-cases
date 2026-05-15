@@ -9,17 +9,21 @@ const teekConfig = defineTeekConfig({
     showCategory: true, // 显示分类
     showTag: true, // 显示标签
   },
-  // 归档页配置
-  archives: {
+  // 首页文章列表分页配置
+  page: {
     pageSize: 20, // 每页显示数量
   },
-  // 分类页配置
-  categories: {
-    pageSize: 20,
+  // 分类卡片配置
+  category: {
+    enabled: true, // 启用分类卡片
+    path: '/categories', // 分类页路径
+    limit: 20, // 首页显示数量
   },
-  // 标签页配置
-  tags: {
-    pageSize: 20,
+  // 标签卡片配置
+  tag: {
+    enabled: true, // 启用标签卡片
+    path: '/tags', // 标签页路径
+    limit: 20, // 首页显示数量
   },
 })
 
