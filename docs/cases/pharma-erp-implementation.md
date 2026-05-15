@@ -1,7 +1,8 @@
 ---
 title: 医药科技企业ERP系统实施
 date: 2024-08-15
-category: ERP实施
+categories:
+  - ERP实施
 tags:
   - 金蝶云星空
   - 医药行业

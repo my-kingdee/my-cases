@@ -1,7 +1,8 @@
 ---
 title: 宠物寄养SaaS平台
 date: 2024-10-20
-category: SaaS开发
+categories:
+  - SaaS开发
 tags:
   - 微信小程序
   - SaaS

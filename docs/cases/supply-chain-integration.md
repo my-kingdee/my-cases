@@ -1,7 +1,8 @@
 ---
 title: 供应链协同平台集成
 date: 2024-09-05
-category: 系统集成
+categories:
+  - 系统集成
 tags:
   - 系统集成
   - 制造业

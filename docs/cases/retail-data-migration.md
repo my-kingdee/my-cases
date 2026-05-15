@@ -1,7 +1,8 @@
 ---
 title: 零售企业数据迁移项目
 date: 2024-06-10
-category: 数据迁移
+categories:
+  - 数据迁移
 tags:
   - 数据迁移
   - 零售行业
