@@ -1,6 +1,8 @@
 ---
 title: 医药科技企业ERP系统实施
 date: 2024-08-15
+top: 1
+sticky: 1
 categories:
   - ERP实施
 tags:

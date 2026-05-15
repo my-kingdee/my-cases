@@ -1,6 +1,8 @@
 ---
 title: 供应链协同平台集成
 date: 2024-09-05
+top: 3
+sticky: 3
 categories:
   - 系统集成
 tags:
