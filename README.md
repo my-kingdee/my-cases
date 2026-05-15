@@ -40,4 +40,4 @@ docs/
 
 推送到 `main` 分支后，GitHub Actions 会自动构建并部署到 GitHub Pages。
 
-访问地址: https://my-kingdee.github.io
+访问地址: https://my-kingdee.github.io/my-cases/
